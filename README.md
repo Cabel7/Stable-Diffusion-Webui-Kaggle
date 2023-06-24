@@ -1,4 +1,5 @@
 # Stable-Diffusion-Webui-Kaggle
+# Special thanks to [Camenduru](https://github.com/camenduru)
 Hello Everyone, although I'm not very good at this but since free colab notebooks are not properly working anymore I tried to make a notebook for Kaggle.
 
 Those who are new to Kaggle i would try my best to explain things in easy way
