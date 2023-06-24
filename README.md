@@ -13,6 +13,6 @@ Those who are new to Kaggle i would try my best to explain things in easy way
 ## 🦒 Colab
 | nightly | nightly | nightly | Info - Token - Model Page
 | --- | --- | --- | --- |
-[![Lite](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/jarvislinks/hassaku-model-hentai-stable-diffusion-kaggle) | [![Stable](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/jarvislinks/hassaku-model-hentai-stable-diffusion-kaggle) | [![Nightly](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/jarvislinks/hassaku-model-hentai-stable-diffusion-kaggle) | stable_diffusion_webui_colab <br /> [CompVis/stable-diffusion-v-1-4-original](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original)
+[![Lite](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/jarvislinks/hassaku-model-hentai-stable-diffusion-kaggle/edit) | [![Stable](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/jarvislinks/hassaku-model-hentai-stable-diffusion-kaggle/edit) | [![Nightly](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/jarvislinks/hassaku-model-hentai-stable-diffusion-kaggle/edit) | Hassaku Hentai Model <br /> [Hassaku-Hentai-Model_v11](https://civitai.com/models/2583/hassaku-hentai-model)
 
 
