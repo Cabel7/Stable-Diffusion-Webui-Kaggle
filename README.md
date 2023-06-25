@@ -3,7 +3,7 @@
 
 🔥 Please join [Camenduru Kaggle Discord Server](https://discord.com/channels/1077510466470952990/1079115716164329535) if there is anything you want to know 
 
-💥 Please join Camenduru [Discord server](https://discord.gg/k5BwmmvJJU)
+💥 Please join [Camenduru Discord server](https://discord.gg/k5BwmmvJJU)
 
 Those who are new to Kaggle i would try my best to explain things in easy way
 
