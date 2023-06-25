@@ -1,15 +1,16 @@
 # Stable-Diffusion-Webui-Kaggle
 ***Special thanks to [Camenduru](https://github.com/camenduru)***
 
-🔥 Please join [Camenduru Kaggle Discord Server](https://discord.com/channels/1077510466470952990/1079115716164329535)
-
-💥 Please join [Camenduru Discord server](https://discord.gg/k5BwmmvJJU)
+🔥 Please join [Camenduru Kaggle Discord Server](https://discord.com/channels/1077510466470952990/1079115716164329535) <br />
+💥 Please join [Camenduru Discord server](https://discord.gg/k5BwmmvJJU) <br />
 
 For those who are new to Kaggle I would try my best to explain things in easy way [here](https://github.com/Cabel7/Stable-Diffusion-Webui-Kaggle/blob/main/KAGGLE.md)
 
 **But before we start I would like inform you that kaggle is not like Google Colab so nsfw content is strictly prohibited on Kaggle plateform**
-**But don't you worry I'm here (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧**
+**But don't you worry I'm here (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧** <br />
+<br />
 
+**Webui Type** <br />
 `lite` has a stable WebUI and stable installed extensions. <br />
 `stable` has ControlNet v1.1, a stable WebUI, and stable installed extensions. <br />
 `nightly` has ControlNet v1.1 the latest WebUI with PyTorch 2.0, and daily installed extension updates. <br />
