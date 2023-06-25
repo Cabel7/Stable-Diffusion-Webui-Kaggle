@@ -1,7 +1,7 @@
 # Stable-Diffusion-Webui-Kaggle
 ***Special thanks to [Camenduru](https://github.com/camenduru)***
 Please join our discord server https://discord.gg/k5BwmmvJJU
-Please join our Kaggle discord server if there is anything you want to know [https://drive.google.com/file/d/1lhQwXNojhqXSIT1vaQKX-KMmJ3e0NoAD/view?usp=drivesdk](https://discord.com/channels/1077510466470952990/1079115716164329535)
+Please join our Kaggle discord server if there is anything you want to know [<:awoo:1063350424427573318>](https://discord.com/channels/1077510466470952990/1079115716164329535)
 
 Hello Everyone, although I'm not very good at this but since free colab notebooks are not properly working anymore I tried to make a notebook for Kaggle.
 
