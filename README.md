@@ -2,6 +2,7 @@
 ***Special thanks to [Camenduru](https://github.com/camenduru)***
 
 🔥 Please join [Camenduru Kaggle Discord Server](https://discord.com/channels/1077510466470952990/1079115716164329535)
+
 💥 Please join [Camenduru Discord server](https://discord.gg/k5BwmmvJJU)
 
 For those who are new to Kaggle I would try my best to explain things in easy way
