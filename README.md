@@ -5,7 +5,7 @@
 
 💥 Please join [Camenduru Discord server](https://discord.gg/k5BwmmvJJU)
 
-For those who are new to Kaggle I would try my best to explain things in easy way
+For those who are new to Kaggle I would try my best to explain things in easy way [here](https://github.com/Cabel7/Stable-Diffusion-Webui-Kaggle/blob/main/KAGGLE.md)
 
 **But before we start I would like inform you that kaggle is not like Google Colab so nsfw content is strictly prohibited on Kaggle plateform**
 **But don't you worry I'm here (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧**
