@@ -21,7 +21,7 @@ Intel_Xeon_2.20_GHz_CPU	| 2016 | 4_vCPU_Cores |	32 GB	| Unlimited
 
 # How to create a Kaggle account ? <br>
 1. Go to the Kaggle website and click on sign up section. <br>
-2. Setup your Kaggle profile by providing a brief bio, picture, location, title and current workplace. You can also add your LinkedIn, Github and Facebook accounts so people can contact you when needed. <br>
+2. Setup your Kaggle profile by providing a brief bio, picture, location, title and current workplace. You can also add your LinkedIn, Github and Facebook accounts so people can contact you when needed. [Not Necessarily] <br>
 
 # Now comes the most crucial part <br>
 **Account Verification** <br>
