@@ -40,5 +40,5 @@ Without this you won't be able to use ***Kaggle GPU*** even after you sign up in
 
 # How to run Stable Diffusion Webui ?<br>
 1. First select any [Model](https://github.com/Cabel7/Stable-Diffusion-Webui-Kaggle)
-   [Model](https://drive.google.com/file/d/1nG2JmK10IPWxngRsMsMc9UIe2sXZ6qrl/view?usp=drivesdk)
+![Model](https://drive.google.com/file/d/1nG2JmK10IPWxngRsMsMc9UIe2sXZ6qrl/view?usp=drivesdk)
 
