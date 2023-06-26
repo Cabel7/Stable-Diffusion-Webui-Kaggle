@@ -39,6 +39,18 @@ Without this you won't be able to use ***Kaggle GPU*** even after you sign up in
 * You should get a response soon enough. <br>
 
 # How to run Stable Diffusion Webui ?<br>
-1. First select any [Model](https://github.com/Cabel7/Stable-Diffusion-Webui-Kaggle)
-![Model](https://drive.google.com/file/d/1nG2JmK10IPWxngRsMsMc9UIe2sXZ6qrl/view?usp=drivesdk)
+1. First select any ***[Model](https://github.com/Cabel7/Stable-Diffusion-Webui-Kaggle)***
+![IMG_20230626_133950](https://github.com/Cabel7/Image/assets/134921117/6cb14925-40c7-4a5f-938c-32cf7a924431)
+2. It should redirect you to the notebook page; there you click on ***Copy & Edit*** option, it should redirect you to private notebook. ![Screenshot_2023-06-26-13-51-59-08_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/Cabel7/Image/assets/134921117/443184be-f36e-419d-8524-a7dca4a3bffd)
+3. After being redirected click on three dots available on the top right corner.
+![IMG_20230626_141833](https://github.com/Cabel7/Image/assets/134921117/917d586e-5691-4882-94de-30446cc66fa1)
+5. If you have verified your account already as mentioned above then there you would see notebook section, click on it and select any of the two GPU provided.![IMG_20230626_142824](https://github.com/Cabel7/Image/assets/134921117/456f6c0d-a069-4a4d-93ba-1828f8584d79)
+6. After that scroll down and you would see an option for internet, turn it on.![IMG_20230626_143026](https://github.com/Cabel7/Image/assets/134921117/ddb0d886-0d63-4a79-bc96-2750bfa1c15f)
+7. And you are good to go ahead (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧
 
+# Things to be noted before we move ahead <br>
+* **How long do you want you to run the Stable Diffusion Webui?**
+* There are two ways you by which you can run a notebook
+  1. Interactive session
+  2. Save & Run all (Commit)
+* 
