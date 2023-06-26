@@ -75,6 +75,6 @@ Without this you won't be able to use ***Kaggle GPU*** even after you sign up in
 **And Don't forget to cancel the session if you no longer need it.**
 
 # Note:<br>
-1. Kaggle is not like Google Colab so you can't mount Google drive like in kaggle there are many work arounds available for that on internet.
-2. NSFW is strictly prohibited on Kaggle platform so don't try to use others public notebook for creating NSFW works, if you do you might get banned on kaggle.
+1. Kaggle is not like Google Colab so you can't mount Google drive in kaggle but there are many work arounds available for that on internet.
+2. **NSFW** is strictly prohibited on Kaggle platform so don't try to use others public notebook for creating NSFW works, if you do you might get banned on kaggle.
     
