@@ -44,20 +44,21 @@ Without this you won't be able to use ***Kaggle GPU*** even after you sign up in
 2. It should redirect you to the notebook page; there you click on ***Copy & Edit*** option, it should redirect you to private kaggle kernel. ![Screenshot_2023-06-26-13-51-59-08_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/Cabel7/Image/assets/134921117/443184be-f36e-419d-8524-a7dca4a3bffd)
 3. After being redirected click on three dots available on the top right corner.
 ![IMG_20230626_141833](https://github.com/Cabel7/Image/assets/134921117/917d586e-5691-4882-94de-30446cc66fa1)
-5. If you have verified your account already as mentioned above then should be able to see a notebook section there, click on it and select any of the two GPU provided.![IMG_20230626_142824](https://github.com/Cabel7/Image/assets/134921117/456f6c0d-a069-4a4d-93ba-1828f8584d79)
-6. After that scroll down and you would see an option for internet, turn it on.![IMG_20230626_143026](https://github.com/Cabel7/Image/assets/134921117/ddb0d886-0d63-4a79-bc96-2750bfa1c15f)
-7. Then remove the hashes in front of the git extensions you want to use.<br>
+5. If you have verified your account already as mentioned above then should be able to see a notebook section there, click on it and select any of the two GPU provided.![IMG_20230626_142824](https://github.com/Cabel7/Image/assets/134921117/6bae14df-3b20-4639-ae4a-b48e8109f3f5)
+7. After that scroll down and you would see an option for internet, turn it on.![IMG_20230626_143026](https://github.com/Cabel7/Image/assets/134921117/ddb0d886-0d63-4a79-bc96-2750bfa1c15f)
+8. Set the environment to the latest one.
+9. Then remove the hashes in front of the git extensions you want to use.<br>
 
    **Note:** Don't try to load all the git extension otherwise the machine would run out of memory, so put hash in front of those extension you don't want use atleast 4 to 5. <br>
 
-8. And you are good to go ahead (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧
+10. And you are good to go ahead (⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧
 
 # Things to be noted before we move ahead <br>
 * **How long do you want to run the Stable Diffusion Webui?**
 * There are two ways by which you can run a notebook
   1. Interactive session
   2. Save & Run all (Commit)
-> **Interactive Session:** When you click on Run All it starts an interactive session which terminates after 40-60 minutes if you are not found active on Kaggle kernel. Choose this one if you want to run it for a short period of time. <br>
+> **Interactive Session:** When you click on Run All it starts an interactive session which automatically terminates after 40-60 minutes if you are not found active on Kaggle kernel. Choose this one if you want to run it for a short period of time. <br>
 > **Save & Run all (Commit):** Save & Run all option runs your notebook untill it gets an output so if you are running the Stable diffusion Webui it will keep on running forever, so I prefer this one for longer runtime. <br>
 ***But please don't misuse it, cancel the session manually if you're done with your work.***
 
