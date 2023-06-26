@@ -13,6 +13,9 @@ NVIDIA_T4_x2_GPU | 2018	| 2560_Cuda_Cores |	16 GB	| 32 h
 Google_TPU_v3-8	| 2018 |	8_TPU_v3_Cores	| 128 GB	| 20 h
 Intel_Xeon_2.20_GHz_CPU	| 2016 | 4_vCPU_Cores |	32 GB	| Unlimited
 
+**Kaggle provides you with two environment:**
+> ***Original:*** This one runs on python version 3.7
+> ***Advanced:*** This one runs on python version 3.10.10
 
 
 
