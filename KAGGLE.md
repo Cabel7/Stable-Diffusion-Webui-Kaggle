@@ -41,7 +41,7 @@ Without this you won't be able to use ***Kaggle GPU*** even after you sign up in
 # How to run Stable Diffusion Webui ?<br>
 1. First select any ***[Model](https://github.com/Cabel7/Stable-Diffusion-Webui-Kaggle)***
 ![IMG_20230626_133950](https://github.com/Cabel7/Image/assets/134921117/6cb14925-40c7-4a5f-938c-32cf7a924431)
-2. It should redirect you to the notebook page; there you click on ***Copy & Edit*** option, it should redirect you to private notebook. ![Screenshot_2023-06-26-13-51-59-08_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/Cabel7/Image/assets/134921117/443184be-f36e-419d-8524-a7dca4a3bffd)
+2. It should redirect you to the notebook page; there you click on ***Copy & Edit*** option, it should redirect you to private kaggle kernel. ![Screenshot_2023-06-26-13-51-59-08_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/Cabel7/Image/assets/134921117/443184be-f36e-419d-8524-a7dca4a3bffd)
 3. After being redirected click on three dots available on the top right corner.
 ![IMG_20230626_141833](https://github.com/Cabel7/Image/assets/134921117/917d586e-5691-4882-94de-30446cc66fa1)
 5. If you have verified your account already as mentioned above then there you would see notebook section, click on it and select any of the two GPU provided.![IMG_20230626_142824](https://github.com/Cabel7/Image/assets/134921117/456f6c0d-a069-4a4d-93ba-1828f8584d79)
@@ -53,4 +53,16 @@ Without this you won't be able to use ***Kaggle GPU*** even after you sign up in
 * There are two ways you by which you can run a notebook
   1. Interactive session
   2. Save & Run all (Commit)
-* 
+> **Interactive Session:** When you click on Run All it starts a interactive session which terminates after 40-60 minutes if you are not found active on Kaggle kernel. Choose this one if you want to run it for a short period of time. <br>
+> **Save & Run all (Commit):** Save & Run all option runs your notebook untill it gets an output so if you are running the Stable diffusion Webui it will keep on running forever, so I prefer this one for longer runtime. **But please don't misuse it, cancel the session manually if you're done with your work.**
+
+8. Click on Run All if you want to run for a short period of time.
+![IMG_20230626_150813](https://github.com/Cabel7/Image/assets/134921117/1d18419e-9099-4776-b67c-b35d5637b82c)
+10. For longer runtime click Save Version and then in Advanced Settings select run with GPU for all sessions and Save.
+11. After that click on three horizontal lines on top left corner and then View active Events, there you can manage all your active sessions.
+    ![IMG_20230626_151750](https://github.com/Cabel7/Image/assets/134921117/8fe08abb-ee20-4304-8728-568d1e3a3ec2)
+12. Click on three dots and then view logs, it should redirect you to your notebook logs.
+13. After 10-12 minutes of your your notebook execution scroll down in the notebook logs and look for the public url like this 🔻
+    ![IMG_20230626_152925](https://github.com/Cabel7/Image/assets/134921117/3660a141-cc25-487b-8ea3-6dc769a392e9)
+14. Copy paste that url into your web browser where you want to run the Stable Diffusion Webui and done.
+    
