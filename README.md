@@ -6,7 +6,7 @@
 
 For those who are new to Kaggle I would try my best to explain things in easy way [here](https://github.com/Cabel7/Stable-Diffusion-Webui-Kaggle/blob/main/KAGGLE.md)
 
-**But before we start I would like inform you that kaggle is not like Google Colab so nsfw content is strictly prohibited on Kaggle plateform** <br />
+**But before we start I would like inform you that kaggle is not like Google Colab so nsfw content is strictly prohibited on Kaggle plateform.** <br />
 
 **Webui Type** <br />
 `lite` has a stable WebUI and stable installed extensions. <br />
